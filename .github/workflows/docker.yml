@@ -44,4 +44,4 @@ jobs:
           push: true
           tags: |
             vaker2/animal-farm-nodejs:latest
-            ghcr.io/GuillemVaquer/animal-farm-nodejs:latest
+            ghcr.io/guillemvaquer/animal-farm-nodejs:latest
